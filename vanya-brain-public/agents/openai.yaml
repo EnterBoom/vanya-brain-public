@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vanya 数字大脑 · 分享版"
+  short_description: "调用 Vanya 公开的业务判断、产品转化、交付和 AI 落地方法"
+  default_prompt: "使用 $vanya-brain-public，帮我判断这个项目的关键问题，并给出下一步动作与完成标准。"
+policy:
+  allow_implicit_invocation: true
